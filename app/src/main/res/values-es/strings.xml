@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android5Things</string>
+    <string name="PragmaticProgrammerTitle">The Pragmatic Programmer: From Journeyman to Master</string>
+    <string name="PragmaticProgrammerDescription">The Pragmatic Programmer corta a través de la creciente especialización y aspectos técnicos de desarrollo de software moderno para examinar el proceso central - tomar un requisito y la producción de trabajo, código mantenible que deleita a sus usuarios. Cubre temas que van desde la responsabilidad personal y el desarrollo profesional de las técnicas arquitectónicas para mantener su código flexible y fácil de adaptar y reutilización</string>
+</resources>
