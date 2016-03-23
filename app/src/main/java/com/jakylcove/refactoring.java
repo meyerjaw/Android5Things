@@ -13,7 +13,7 @@ public class refactoring extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
-        return inflater.inflate(R.layout.refactoring2, container, false);
+        return inflater.inflate(R.layout.refactoring, container, false);
     }
 
 }

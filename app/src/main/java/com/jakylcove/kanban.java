@@ -13,7 +13,7 @@ public class kanban extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
-        return inflater.inflate(R.layout.kanban2, container, false);
+        return inflater.inflate(R.layout.kanban, container, false);
     }
 
 }
