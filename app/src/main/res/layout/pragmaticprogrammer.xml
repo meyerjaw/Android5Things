@@ -35,6 +35,24 @@
                 android:layout_below="@id/imgPicture"
                 android:text="@string/PragmaticProgrammerDescription"
                 android:textSize="15dp" />
+            <ImageView
+                android:id="@+id/btnBuy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/lblDescription"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/amazonbuybutton"
+                android:onClick="buyNow"
+                />
+            <ImageView
+                android:id="@+id/btnBuyGoogle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/btnBuy"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/google_play"
+                android:onClick="buyGoogleNow"
+                />
         </RelativeLayout>
     </ScrollView>
 </RelativeLayout>

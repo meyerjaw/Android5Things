@@ -18,4 +18,16 @@
     <string name="SprintTitle">Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days</string>
     <string name="SprintShortTitle">Sprint</string>
     <string name="SprintDescription">From three partners at Google Ventures, a unique five-day process for solving tough problems, proven at more than a hundred companies. Entrepreneurs and leaders face big questions every day: What’s the most important place to focus your effort, and how do you start? What will your idea look like in real life? How many meetings and discussions does it take before you can be sure you have the right solution?</string>
+    <string name="PragmaticProgrammerURL">http://amzn.com/020161622X</string>
+    <string name="EssentialScrumURL">http://amzn.com/0137043295</string>
+    <string name="MythicalManURL">http://amzn.com/0201835959</string>
+    <string name="RefactoringURL">http://amzn.com/0201485672</string>
+    <string name="KanBanURL">http://amzn.com/0984521402</string>
+    <string name="SprintURL">http://amzn.com/150112174X</string>
+    <string name="PragmaticProgrammerGURL">https://play.google.com/store/books/details/Andrew_Hunt_The_Pragmatic_Programmer?id=5wBQEp6ruIAC</string>
+    <string name="EssentialScrumGURL">https://play.google.com/store/books/details/Kenneth_S_Rubin_Essential_Scrum?id=3vGEcOfCkdwC</string>
+    <string name="MythicalManGURL">https://play.google.com/store/books/details/Frederick_P_Brooks_Jr_The_Mythical_Man_Month_Anniv?id=Yq35BY5Fk3gC</string>
+    <string name="RefactoringGURL">https://play.google.com/store/books/details/Martin_Fowler_Refactoring?id=HmrDHwgkbPsC</string>
+    <string name="KanBanGURL">https://play.google.com/store/books/details/David_J_Anderson_Kanban?id=RJ0VUkfUWZkC</string>
+    <string name="SprintGURL">https://play.google.com/store/books/details/Jake_Knapp_Sprint?id=<rV0JCgAAQBAJ></rV0JCgAAQBAJ></string>
 </resources>
